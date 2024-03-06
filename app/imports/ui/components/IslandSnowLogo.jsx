@@ -9,3 +9,5 @@ const IslandSnowLogo = () => (
     </Col>
   </Row>
 );
+
+export default IslandSnowLogo;
