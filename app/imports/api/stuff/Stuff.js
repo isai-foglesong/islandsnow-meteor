@@ -28,7 +28,6 @@ class StuffsCollection {
     this.adminPublicationName = `${this.name}.publication.admin`;
   }
 }
-
 /**
  * The singleton instance of the StuffsCollection.
  * @type {StuffsCollection}
